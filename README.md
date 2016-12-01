@@ -1,2 +1,4 @@
 # Bresenham in Javascript / P5JS
 Algorithm to rasterize lines on displays with low computitional impact
+>Bresenham's line algorithm is an algorithm that determines the points of an n-dimensional raster that should be selected in order to form a close approximation to a straight line between two points. It is commonly used to draw line primitives in a bitmap image (e.g. on a computer screen), as it uses only integer addition, subtraction and bit shifting, all of which are very cheap operations in standard computer architectures. It is an incremental error algorithm.
+Quoted from [Wikipedia](https://en.wikipedia.org/wiki/Bresenham's_line_algorithm).
