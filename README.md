@@ -5,6 +5,6 @@ Using the bresenham algorithm to rasterize animated lines, based on [p5js-boiler
 
 Quoted from [Wikipedia](https://en.wikipedia.org/wiki/Bresenham's_line_algorithm).
 
-![Preview](https://github.com/bsplt/bresenham-p5/blob/master/preview.png)
+[![Preview](https://github.com/bsplt/bresenham-p5/blob/master/preview.png)](https://bsplt.github.io/bresenham-p5/)
 
 See the project on [github.io](https://bsplt.github.io/bresenham-p5/).
